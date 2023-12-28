@@ -12,11 +12,15 @@ For the most part this was an easy project to code. Got stumed for a sec on test
 ### Issues
 Unlike my other projects this one was not that hard to make. 
 
-## Project 2: [Project Name]
+## Project 2: Terminal Game
 
-Description of the second project. Follow a similar structure as the first project's section, including usage examples, installation instructions, and any additional information.
+This python project has the user play through a series of challenges. defeating enemies and collecting coins. 
 
-## Project 3: [Project Name]
+### Issues/Challenges
+
+Since the game continues until the player dies or all the enemies are defeated there is a problem in storing information along the way, like the coin count and item count. I had some trouble with this but using a global list I got it to work. 
+
+## Project 3: Music Library
 
 Description of the third project.
 
