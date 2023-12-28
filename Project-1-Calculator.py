@@ -1,3 +1,4 @@
+#Daniel Almond project 1
 """
 This is my claculator program. Ment to take two integers/floats and with a user selected operation
 returns a new value as a result. It will detect division by zero errors and repeat if you want to calculater more. Enjoy!

@@ -1,3 +1,4 @@
+#Daniel Almond project 2
 import random
 import time
 
