@@ -4,7 +4,7 @@ Welcome to my repository containing five Python projects. Each project focuses o
 
 ## Project 1: The Calculator
 
-This Python project implements a versatile calculator program capable of performing basic arithmetic operations, advanced mathematical functions, and more. The calculator takes two numeric inputs (integers or floats) from the user and performs operations based on the user's selection.
+This Python calculator project handles basic arithmetic, advanced math functions, and more. Users input two numbers, and the program performs operations based on their choice.
 
 ### Usage
 For the most part this was an easy project to code. Got stumed for a sec on test cases but figured it out. 
